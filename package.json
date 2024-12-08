@@ -8,8 +8,8 @@
       "dependencies": {  
         "@slack/bolt": "^3.13.3",  
         "axios": "^1.6.2",  
-        "lru-cache": "^7.14.0",   // Added lru-cache  
-        "glob": "^10.3.0"         // Added glob  
+        "lru-cache": "^7.14.0",    
+        "glob": "^10.3.0"         
       },  
       "engines": {  
         "node": ">=10"  
